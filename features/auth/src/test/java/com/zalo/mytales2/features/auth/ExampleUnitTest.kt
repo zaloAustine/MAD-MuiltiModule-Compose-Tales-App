@@ -1,4 +1,4 @@
-package com.zalo.mytales2.theme
+package com.zalo.mytales2.features.auth
 
 import org.junit.Test
 

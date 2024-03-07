@@ -17,3 +17,4 @@ rootProject.name = "MyTales2"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
 include(":theme")
+include(":features:auth")
